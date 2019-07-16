@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_directory目录", "_01_directory目录\_01_directory目录.csproj", "{091A4394-403E-4B19-8206-307D8A5DD482}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_FileStream", "_02_FileStream\_02_FileStream.csproj", "{93894041-CF16-46F7-9E48-B4DA7B9C1387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_File、Directory和FileStream", "_03_File、Directory和FileStream\_03_File、Directory和FileStream.csproj", "{0ECDB98D-3B83-477D-A580-01DA052D73F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{091A4394-403E-4B19-8206-307D8A5DD482}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{091A4394-403E-4B19-8206-307D8A5DD482}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{091A4394-403E-4B19-8206-307D8A5DD482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93894041-CF16-46F7-9E48-B4DA7B9C1387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93894041-CF16-46F7-9E48-B4DA7B9C1387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93894041-CF16-46F7-9E48-B4DA7B9C1387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93894041-CF16-46F7-9E48-B4DA7B9C1387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECDB98D-3B83-477D-A580-01DA052D73F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECDB98D-3B83-477D-A580-01DA052D73F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECDB98D-3B83-477D-A580-01DA052D73F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECDB98D-3B83-477D-A580-01DA052D73F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
