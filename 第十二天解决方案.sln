@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_FileStream", "_02_FileS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_File、Directory和FileStream", "_03_File、Directory和FileStream\_03_File、Directory和FileStream.csproj", "{0ECDB98D-3B83-477D-A580-01DA052D73F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_多媒体文件的复制", "_04_多媒体文件的复制\_04_多媒体文件的复制.csproj", "{633D10F1-E767-43F8-ACB4-D3C9BCF09DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_Stream", "_05_Stream\_05_Stream.csproj", "{7F61F9A4-890B-49AF-917B-9135F837ADE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{0ECDB98D-3B83-477D-A580-01DA052D73F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ECDB98D-3B83-477D-A580-01DA052D73F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ECDB98D-3B83-477D-A580-01DA052D73F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633D10F1-E767-43F8-ACB4-D3C9BCF09DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633D10F1-E767-43F8-ACB4-D3C9BCF09DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633D10F1-E767-43F8-ACB4-D3C9BCF09DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633D10F1-E767-43F8-ACB4-D3C9BCF09DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F61F9A4-890B-49AF-917B-9135F837ADE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F61F9A4-890B-49AF-917B-9135F837ADE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F61F9A4-890B-49AF-917B-9135F837ADE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F61F9A4-890B-49AF-917B-9135F837ADE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
